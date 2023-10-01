@@ -1,4 +1,4 @@
-[U@startuml
+@startuml
 interface OOP_HW02_Aquarium.EatingFish {
 ~ int eatedFishes()
 }
@@ -96,7 +96,4 @@ OOP_HW02_Aquarium.HitingSuperCombo <|.. OOP_HW02_Aquarium.Residents.NinjaTurtle
 OOP_HW02_Aquarium.Residents.Turtle <|-- OOP_HW02_Aquarium.Residents.NinjaTurtle
 OOP_HW02_Aquarium.AquaSoundAble <|.. OOP_HW02_Aquarium.Residents.Base.AquaResidents
 OOP_HW02_Aquarium.Residents.Base.AquaResidents <|-- OOP_HW02_Aquarium.Residents.Base.Amphibians
-@endumlploading OOP_HW02_AquariumUML.puml…]()
-
-
-
+@enduml
